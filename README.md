@@ -19,3 +19,7 @@
 ### Womp Womp
 
 ### Wiggle
+
+### Swiggity
+
+### Swooty
