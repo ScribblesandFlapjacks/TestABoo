@@ -1,3 +1,4 @@
+name-template: '$NEXT_PATCH_VERSION'
 template: |
   ## Changes
 
